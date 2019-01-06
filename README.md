@@ -1,9 +1,12 @@
 # SRM05
 
 <b>1. Cibin Likes Networking</b><br>
-<b>Prerequisites:</b>		None<br>
+<b>Prerequisites:</b>		Knowledge Of Star Topology<br>
 <b>Difficulty:</b>			Very Easy<br>
 <b>Solution Type:</b>		Simple Maths and Conditions<br>
+<b>Star Topology</b><br>
+<img src="https://www.computerhope.com/jargon/s/star.gif" /><br>
+Alternatively referred to as a star network, star topology is one of the most common network setups. In this configuration, every node connects to a central network device, like a hub, switch, or computer.<br>
 For each test case, find the sum of wire length required and also find the number of repeaters required. Now, subtract these quantities from available ones given. If any of them comes out to be negative then print insufficient otherwise print sufficient.<br>
 <b>C Solution:</b><br>
 https://github.com/vipul-08/SRM05/blob/master/SRM05A/SRM05A.c<br>
