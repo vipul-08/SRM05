@@ -28,6 +28,8 @@ https://github.com/vipul-08/SRM05/blob/master/SRM05A/SRM05B.c<br>
 https://github.com/vipul-08/SRM05/blob/master/SRM05A/SRM05B.py<br>
 <b>Java Solution:</b><br>
 https://github.com/vipul-08/SRM05/blob/master/SRM05A/Srm05B.java<br>
+<b>Solution by Kaustubh Badrike</b><br>
+http://arena.siesgst.ac.in/contest/SRM05/submission/5c32240ca97ba600223179a8<br>
 
 <b>3. Installation of OS in New Computers</b><br>
 <b>Prerequisites:</b>		Knowledge of Graph<br>
@@ -40,3 +42,5 @@ https://github.com/vipul-08/SRM05/blob/master/SRM05A/SRM05C.c<br>
 https://github.com/vipul-08/SRM05/blob/master/SRM05A/SRM05C.py<br>
 <b>Java Solution:</b><br>
 https://github.com/vipul-08/SRM05/blob/master/SRM05A/Srm05C.java<br>
+<b>Solution by Sanoop Menon</b><br>
+http://arena.siesgst.ac.in/contest/SRM05/submission/5c321332a97ba60022317655
